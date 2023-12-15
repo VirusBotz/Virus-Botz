@@ -1,5 +1,6 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
+    START_TXT = """<b>👋 Hᴇʟʟᴏ {},
+
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
 
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Virus_editx'>ᡕᠵ᠊ᡃ່࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘𐡏 —͟͞͞ MR.VIRUS 🦠</a></b>"""
@@ -452,10 +453,13 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ᴠ2.8.1 [sᴛᴀʙʟᴇ] """
 
     LOGO = """
- ____  ___    ____   __  ____  ____ 
-(_  _)/ __)  (  _ \ /  \(_  _)(__  )
-  )( ( (_ \   ) _ ((  O ) )(   / _/ 
- (__) \___/  (____/ \__/ (__) (____)"""
+ 
+╱╱┏╮╱╱╱╱╱╱╱╱╱╱
+╱╱┃┃╱╱┳╱┓┳╭┛┳┓
+▉━╯┗━╮┃╱┃┣┻╮┣╱
+▉┈┈┈┈┃┻┛┛┻╱┗┗┛
+▉╮┈┈┈┃▔▔▔▔▔▔▔▔
+╱╰━━━╯ 
 
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
