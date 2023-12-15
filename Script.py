@@ -219,8 +219,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """ 
-⚡️JOIN : [@Virus_Studios] 🦠
+    CAPTION = """⚡️JOIN : [@Virus_Studios] 🦠
 
 <b>🎬 TITLE : <a href=https://t.me/Virus_Studios>{caption}</a>
 
@@ -431,7 +430,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>#Bᴏᴛ1 Rᴇsᴛᴀʀᴛᴇᴅ !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
@@ -460,8 +459,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ▉┈┈┈┈┃┻┛┛┻╱┗┗┛
 ▉╮┈┈┈┃▔▔▔▔▔▔▔▔
 ╱╰━━━╯ 
-
-# dont remove my logo 
+"""
+    
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
 <a href='https://t.me/+w8AofrKC-MMwZDQ1'> 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ </a>
