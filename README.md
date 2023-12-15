@@ -2,10 +2,10 @@
   <img src="https://telegra.ph/file/30689a75684ced43ab22c.jpg" alt="TG_BOTZ Logo">
 </p>
 <h1 align="center">
-  TG_UPDATES1
+  VIRUS BOTZ UPDATES
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+VIRUS+BOTZ™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+VIRUS+BOTZ;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
