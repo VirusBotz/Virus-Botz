@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/8e0fca27184354f479593.jpg" alt="TG_BOTZ Logo">
+  <img src="https://telegra.ph/file/30689a75684ced43ab22c.jpg" alt="TG_BOTZ Logo">
 </p>
 <h1 align="center">
   TG_UPDATES1
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗨𝗦𝗛𝗔𝗟+𝗛𝗞™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+VIRUS+BOTZ™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
@@ -14,7 +14,7 @@
 
 👉 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢
 <p align="middle">        
-<a href="https://telegram.dog/KUSHALHK"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Virus_Editx"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
 
 [![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZ?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
 [![Forks](https://img.shields.io/github/forks/Kushalhk/TG_BOTZ?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
