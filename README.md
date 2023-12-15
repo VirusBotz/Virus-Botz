@@ -16,12 +16,12 @@
 <p align="middle">        
 <a href="https://telegram.dog/Virus_Editx"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
 
-[![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZ?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
-[![Forks](https://img.shields.io/github/forks/Kushalhk/TG_BOTZ?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
-[![Size](https://img.shields.io/github/repo-size/Kushalhk/TG_BOTZ?style=flat-square&color=orange)](https://github.com/Kushalhk/TG_BOTZ)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushalhk/TG_BOTZ)   
-[![Contributors](https://img.shields.io/github/contributors/Kushalhk/TG_BOTZ?style=flat-square&color=pink)](https://github.com/Kushalhk/TG_BOTZ/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/LICENSE)
+[![Stars](https://img.shields.io/github/stars/VirusStudios03/Virus-Botz?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
+[![Forks](https://img.shields.io/github/forks/VirusStudios03/Virus-Botz?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
+[![Size](https://img.shields.io/github/repo-size/VirusStudios03/Virus-Botz?style=flat-square&color=orange)](https://github.com/VirusStudios03/Virus-Botz)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VirusStudios03/Virus-Botz)   
+[![Contributors](https://img.shields.io/github/contributors/VirusStudios03/Virus-Botz?style=flat-square&color=pink)](https://github.com/VirusStudios03/Virus-Botz/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/VirusStudios03/Virus-Botz/blob/stream-feature/LICENSE)
 
 
 
@@ -67,9 +67,9 @@
 
 <b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/TG_BOTS_UPDATE'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
-* [![𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑](https://img.shields.io/static/v1?label=𝐂𝐎𝐍𝐓𝐀𝐂𝐓&message=𝐌𝐄&color=critical)](https://t.me/KUSHALHK)
+* [![𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑](https://img.shields.io/static/v1?label=𝐂𝐎𝐍𝐓𝐀𝐂𝐓&message=𝐌𝐄&color=critical)](https://t.me/Virus_Editx)
 
-* * [![𝐃𝐄𝐌𝐎 𝐁𝐎𝐓](https://img.shields.io/static/v1?label=𝐃𝐄𝐌𝐎&message=𝐁𝐎𝐓&color=critical)](https://t.me/TG_autofilter_bot)
+* * [![𝐃𝐄𝐌𝐎 𝐁𝐎𝐓](https://img.shields.io/static/v1?label=𝐃𝐄𝐌𝐎&message=𝐁𝐎𝐓&color=critical)](https://t.me/Virus_Studios_Filter_Bot)
   
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -166,13 +166,13 @@ Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="https://telegra.ph/file/30689a75684ced43ab22c.jpg" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Kushalhk/TG_BOTZ/tree/stream-feature">
+<a href="https://render.com/deploy?repo=https://github.com/VirusStudios03/Virus-Botz/tree/stream-feature">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
